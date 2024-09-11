@@ -1,0 +1,2 @@
+# Acumulador-Bytes
+byte

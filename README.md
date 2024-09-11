@@ -39,23 +39,22 @@ void pilha(){
 		char byte;
 		unsigned short int pilha;
 		cout<<"|--------------------------------------|\n";
-	   	cout<<"| Soma de Bytes : "<<sizeof(soma(Num1, Num2), Acumulador(), byte)<<"\n";
-		cout<<"|--------------------------------------|\n";
 	   	cout<<"| \tData : Time : ["<<sizeof('time_t')<<"]\n";
 	   	cout<<"|--------------------------------------|\n";
+	   	cout<<"| Soma de Bytes : "<<sizeof(soma(Num1, Num2), Acumulador(), byte)<<"\n";
+		cout<<"|--------------------------------------|\n";
 	   	pilha = (Acumulador(), Acumulador(), byte);
 	   	pilha == byte;
 		 //cóut<<byte;
 		//cout<<"\n";
 		cout<<"|--------------------------------------|\n";
 		cout<<"| processando valor acumulado...10%"
-		<<"\n| valor total pilha >= +0.10/100% "
-		<<pilha<<"\n";
+		<<"\n| valor total pilha >= +0.10/100% \...["<<pilha<<"]\n";
 		cout<<"|--------------------------------------|\n";
 	}
 	printf("| processando resultado total pilha\n| valor [\$");
-	cout<<"| "<<sizeof(soma(Num1, Num2), +pilha, +"\%$, \%c")<<"]"
-	<<"\n| factory Pilha ["<<sizeof(subtrair(Num1, Num2), "...[\moisesfdl]")<<"]\n";
+	cout<<sizeof(soma(Num1, Num2), pilha, +"...\%$,...\%c")<<"]"
+	<<"\n| factory Pilha ["<<sizeof(subtrair(Num1, Num2), "...[\byte]")<<"]\n";
 	cout<<"|--------------------------------------|";
 	scanf("\DataBase...[\Bytes&Pilha]");
 	scanf("\DataBase...[\Result\Pilha&&Bytes]");
@@ -88,3 +87,5 @@ float subtrair(float Num1,float Num2){
 			}
 		}
 	}
+}
+

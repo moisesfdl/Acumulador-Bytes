@@ -1,0 +1,31 @@
+create database Pilha;
+create table 0x68fec6(
+    id_0x68fec6 int not null primary key auto_increment,
+    pilha[10]  float(1000),
+    slot varchar(1000),
+    0x68fec6 text,
+    data_criacao timestamp default current_timestamp);
+create table 0x68fe6e(
+    id_0x68fe6e int not null primary key auto_increment,
+    pilha[20] float(2000),
+    slot varchar(2000),
+    0x68fe6e text,
+    data_criacao timestamp default current_timestamp);
+create table 0x68fe82(
+    id_0x68fe82 int not null primary key auto_increment,
+    pilha[30] float(3000),
+    slot varchar(3000),
+    0x68fe82 text,
+    data_criacao timestamp default current_timestamp);
+create table 0x68fe96(
+    id_0x68fe96 int not null primary key auto_increment,
+    pilha[40] float(4000),
+    slot varchar(4000),
+    0x68fe96 text,
+    data_criacao timestamp default current_timestamp);
+create table 0x68feaa(
+    id_0x68feaa int not null primary key auto_increment, 
+    pilha[50] float(5000),
+    slot varchar(5000),
+    0x68feaa text,
+    data_criacao timestamp default current_timestamp);

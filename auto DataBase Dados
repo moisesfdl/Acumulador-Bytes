@@ -1,3 +1,4 @@
+//nao copiar database cada copilador inferi o seu database
 create database Pilha;
 create table 0x68fec6(
     id_0x68fec6 int not null primary key auto_increment,

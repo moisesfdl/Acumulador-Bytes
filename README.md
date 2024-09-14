@@ -1,6 +1,5 @@
 # Acumulador-Bytes
 byte
-
 #include <iostream>
 #include <windows.h>
 #include <stdio.h>
@@ -31,20 +30,34 @@ void moisesfdl(){
 	pilha();
 	pilha();
 	pilha();
+	pilha();
+	pilha();
+	pilha();
+	pilha();
+	pilha();
+	pilha();
+	pilha();
+	pilha();
+	pilha();
+	pilha();
+	pilha();
+	pilha();
+	pilha();
+	pilha();
 }
 void pilha(){
 	float Num1, Num2;
 	if(pilha != 0)
 	{
 		char byte;
-		unsigned short int pilha;
+		unsigned long int pilha;
 		cout<<"|--------------------------------------|\n";
 	   	cout<<"| \tData : Time : ["<<sizeof('time_t')<<"]\n";
 	   	cout<<"|--------------------------------------|\n";
-	   	cout<<"| Soma de Bytes : "<<sizeof(soma(Num1, Num2), Acumulador(), byte)<<"\n";
+	   	cout<<"| Soma de Bytes : "<<sizeof(soma(Num1, Num2), Acumulador(), pilha, byte)<<"\n";
 		cout<<"|--------------------------------------|\n";
 	   	pilha = (Acumulador(), Acumulador(), byte);
-	   	pilha == byte;
+	   	pilha = {pilha && byte };
 		 //cóut<<byte;
 		//cout<<"\n";
 		cout<<"|--------------------------------------|\n";

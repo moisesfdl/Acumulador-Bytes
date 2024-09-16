@@ -47,17 +47,22 @@ void moisesfdl(){
 }
 void pilha(){
 	float Num1, Num2;
-	if(pilha != 0)
+	unsigned long int EntradaValor;
+		signed short int SaidaValor;
+		if(pilha)
 	{
 		char byte;
+		//unsigned long int EntradaValor;
+		//signed short int SaidaValor;
 		unsigned long int pilha;
 		cout<<"|--------------------------------------|\n";
 	   	cout<<"| \tData : Time : ["<<sizeof('time_t')<<"]\n";
-	   	cout<<"|--------------------------------------|\n";
-	   	cout<<"| Soma de Bytes : "<<sizeof(soma(Num1, Num2), Acumulador(), pilha, byte)<<"\n";
+	   	//pilha = {pilha && byte };
 		cout<<"|--------------------------------------|\n";
-	   	pilha = (Acumulador(), Acumulador(), byte);
-	   	pilha = {pilha && byte };
+	   	cout<<"| Soma de Bytes : "<<sizeof(byte == (soma(Num1, Num2) && byte))<<"\n";
+	   	cout<<"|--------------------------------------|\n";
+		pilha = (Acumulador(), Acumulador(), byte);
+		pilha = {pilha && byte };
 		 //cóut<<byte;
 		//cout<<"\n";
 		cout<<"|--------------------------------------|\n";
@@ -65,12 +70,13 @@ void pilha(){
 		<<"\n| valor total pilha >= +0.10/100% \...["<<pilha<<"]\n";
 		cout<<"|--------------------------------------|\n";
 	}
-	printf("| processando resultado total pilha\n| valor [\$");
-	cout<<sizeof(soma(Num1, Num2), pilha, +"...\%$,...\%c")<<"]"
-	<<"\n| factory Pilha ["<<sizeof(subtrair(Num1, Num2), "...[\byte]")<<"]\n";
+	printf("| processando resultado total pilha\n| Entrada valor [\$");
+	EntradaValor == (soma(Num1, Num2));
+	SaidaValor == (subtrair(Num1, Num2));
+	cout<<sizeof(EntradaValor && pilha, +"\%s...\%c...")
+	<<"]\n| Saida Valor ["<<sizeof(SaidaValor && pilha, +"\%s...\%c...")<<"]\n";
 	cout<<"|--------------------------------------|";
-	scanf("\DataBase...[\Bytes&Pilha]");
-	scanf("\DataBase...[\Result\Pilha&&Bytes]");
+	scanf("\Byte...[www.bcb.gov.br/cripto/]\[www.itau.com.br/conta-bancaria:result/]");
 	cout<<"\n";
 	}
 

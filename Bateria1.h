@@ -1,11 +1,11 @@
 #include <iostream>
+#include <math.h>
 
 using namespace std;
 void Acumulador(){
 	long int byte;
 	float bit = 4;
-	int moisesfdl;
-	if(moisesfdl = true)
+	if(byte != 0)
 	{
 		cout<<"| \Bytes : ";
 		for(int bit = 4 ; bit > 1; ++bit)
@@ -14,14 +14,14 @@ void Acumulador(){
 			while(bit *+ 1)
 			{
 				bit + bit;
-				++bit;
+				bit++;
 			}
-			cout<<byte;
 			//cout<<"\n";
+			cout<<byte;
 		}
 		//	return byte;
 	}
-	if(moisesfdl = true)
+	if(byte != 0)
 	{
 		for(int bit = 4 ; bit > 1; ++bit)
 		{
@@ -29,14 +29,14 @@ void Acumulador(){
 			while(bit *+ 1)
 			{
 				bit + bit;
-				++bit;
+				bit++;
 			}
 			cout<<byte;
 			//cout<<"\n";
 		}
 		//	return byte;
 	}
-	if(moisesfdl = true)
+	if(byte != 0)
 	{
 		for(int bit = 4 ; bit > 1; ++bit)
 		{
@@ -44,14 +44,14 @@ void Acumulador(){
 			while(bit *+ 1)
 			{
 				bit + bit;
-				++bit;
+				bit++;
 			}
 			cout<<byte;
 			//cout<<"\n";
 		}
 		//	return byte;
 	}
-		if(moisesfdl = true)
+		if(byte != 0)
 	{
 		for(int bit = 4 ; bit > 1; ++bit)
 		{
@@ -59,14 +59,14 @@ void Acumulador(){
 			while(bit *+ 1)
 			{
 				bit + bit;
-				++bit;
+				bit++;
 			}
 			cout<<byte;
 			//cout<<"\n";
 		}
 		//	return byte;
 	}
-		if(moisesfdl = true)
+		if(byte != 0)
 	{
 		for(int bit = 4 ; bit > 1; ++bit)
 		{
@@ -74,14 +74,14 @@ void Acumulador(){
 			while(bit *+ 1)
 			{
 				bit + bit;
-				++bit;
+				bit++;
 			}
 			cout<<byte;
 			//cout<<"\n";
 		}
 		//	return byte;
 	}
-		if(moisesfdl = true)
+		if(byte != 0)
 	{
 		for(int bit = 4 ; bit > 1; ++bit)
 		{
@@ -89,14 +89,14 @@ void Acumulador(){
 			while(bit *+ 1)
 			{
 				bit + bit;
-				++bit;
+				bit++;
 			}
 			cout<<byte;
 			//cout<<"\n";
 		}
 		//	return byte;
 	}
-	if(moisesfdl = true)
+	if(byte != 0)
 	{
 		for(int bit = 4 ; bit > 1; ++bit)
 		{
@@ -104,7 +104,7 @@ void Acumulador(){
 			while(bit *+ 1)
 			{
 				bit + bit;
-				++bit;
+				bit++;
 			}
 			cout<<byte;
 			//cout<<"\n";

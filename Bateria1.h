@@ -2,8 +2,7 @@
 #include <math.h>
 
 using namespace std;
-void Acumulador(){
-	long int byte;
+void Acumulador(long int byte){
 	float bit = 4;
 	if(byte != 0)
 	{
